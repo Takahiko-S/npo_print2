@@ -24,6 +24,11 @@
     <h3 class="mb-4">上製本印刷製本の特徴</h3>
 	 <p class="">最低ページ数 32ページ<br>上限ページ数 500ページ</p>
     </div>
+    <div class="col-md-4 mb-3">
+        <p class="d-grid mb-5"><a href="{{route('jo')}}" class="btn btn-secondary">上製本見積り</a></p>
+        <h3 class="mb-4">上製本印刷製本の特徴</h3>
+         <p class="">最低ページ数 32ページ<br>上限ページ数 500ページ</p>
+        </div>
     </div>
 
 </div>
