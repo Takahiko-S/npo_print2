@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row pt-3 mb-5">
         <div class="col-12">
-        	<h1 class="text-center text-primary">NPO印刷見積りシステム</h1>
+        	<h1 class="text-center text-primary">NPO印刷見積りシステムdesuyo</h1>
         </div>
     </div>
     <div class="row mb-5">
@@ -25,7 +25,7 @@
 	 <p class="">最低ページ数 32ページ<br>上限ページ数 500ページ</p>
     </div>
     </div>
-    
+
 </div>
 
 </x-slot>
